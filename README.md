@@ -3,7 +3,7 @@
 
 
 -Built this project using HTML, CSS  and JS as a part of uni project.                       
--Design only            
+-Designs only            
 -Fully responsive   
 -Check it out: https://awesomeapp.vercel.app/
 
